@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyWebApiApplication",
+    "\\MyWebApiApplication\\MyWebApiApplication",
+    "\\MyWebApiApplication\\MyWebApiApplication\\Controllers"
+  ],
+  "SelectedNode": "\\MyWebApiApplication\\MyWebApiApplication\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
